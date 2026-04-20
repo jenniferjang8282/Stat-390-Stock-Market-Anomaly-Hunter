@@ -5,12 +5,6 @@ The objective of this project is to build a closed-loop AutoResearch system, ins
 Do recurring, exploitable anomalies exist in U.S. equities — discoverable from price, news sentiment, and fundamentals — that an AI agent can autonomously identify, backtest, and validate out-of-sample?
 
 
-
-# AutoResearch for Market Anomaly Discovery
-
-## Overview
-This project builds a reproducible baseline for a Karpathy-style AutoResearch system that evaluates stock market anomaly signals using historical data.
-
 ## Baseline Strategy
 If a stock drops more than 3% in one day, buy it the next day and hold for one day.
 
